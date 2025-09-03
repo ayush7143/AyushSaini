@@ -41,5 +41,5 @@ Based in Dehradun, India. ⚡
 
 ## 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/sayushsaini 
-- Portfolio: [REPLACE_WITH_PORTFOLIO_URL]  
+- Portfolio:  
 
