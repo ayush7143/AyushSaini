@@ -1,17 +1,25 @@
 <!-- Profile README for Ayush Saini -->
 # Hi, I’m Ayush 👋
 
-**Web Developer (MERN) — React · Node.js · MongoDB **  
-Building modern dashboards, EV route planners, and finance tools.  
-Based in Dehradun, India. ⚡
-
+**Full-Stack Web Developer — React · Express · Node.js · MongoDB**  
+💼 Experienced in building dashboards, modern UI, ERP/CRM modules, EV route planners, and case management systems.  
+🚀 Passionate about creating finance tracking tools, and modern UI experiments.  
+⚡ Skilled in **web scraping for EV charging station data** and integrating it into real-world apps.  
+📍 Based in Dehradun, India  
 ---
 
-## 🔭 What I build
-- EV Route Planner — map-based routing, charger filters and planning.  
-- Finance Tracker — expense & vendor payment management with a clean UI.  
-- Case Management System — Express + MongoDB backend, activity logging.  
-- Interactive UI experiments — draggable boxes, connectors (React + Tailwind).
+#### 🔭 What I Build
+
+### 💼 With Companies
+- **Case Management System** — Built with Express.js + MongoDB, featuring case creation, assignment, and activity logging.  
+- **Enterprise Dashboards** — React + Material UI dashboards for internal operations and reporting.  
+- **ERP/CRM Modules** — Worked on UI/UX design and frontend features for business solutions.  
+- **EV Route Planner** — Map-based EV trip planner with charging station filters, segments, and smart routing.  
+- **OCPI Dashboard** — React + Material UI interface for monitoring EV charging operations and sync tasks.  
+- **Interactive UI Experiments** — Draggable boxes with connectors and dynamic layouts using React + Tailwind.  
+
+### 🚀 On My Own / Freelance
+- **Finance Tracker App** — MERN-based tool for managing employee expenses, salaries, and vendor payments.  
 
 ---
 
