@@ -1,6 +1,8 @@
 <!-- Profile README for Ayush Saini -->
 # Hi, I’m Ayush 👋
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
 **Full-Stack Web Developer — React · Express · Node.js · MongoDB**  
 💼 Experienced in building dashboards, modern UI, ERP/CRM modules, EV route planners, and case management systems.  
 🚀 Passionate about creating finance tracking tools, and modern UI experiments.  
@@ -23,12 +25,15 @@
 
 ---
 
+
 ## 🛠 Tech & Tools
-- **Frontend:** React, Tailwind CSS, Material UI, Ant Design  
-- **Backend:** Node.js, Express.js, JWT auth  
-- **Database:** MongoDB, Mongoose  
-- **Cloud / DevOps:** AWS basics, Docker (local)  
-- **Other:** Git, REST APIs, Map integrations (Leaflet / Google Maps)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ---
 
